@@ -1,8 +1,8 @@
 # CodeErrorGuard+
 
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/ManuelGil/vscode-code-error-guard?style=for-the-badge&logo=github)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-code-error-guard)
-[![GitHub Repo stars](https://img.shields.io/github/stars/ManuelGil/vscode-code-error-guard?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-code-error-guard)
-[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-code-error-guard?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-code-error-guard/blob/main/LICENSE)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/ManuelGil/vscode-code-error-guard-plus?style=for-the-badge&logo=github)](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-code-error-guard)
+[![GitHub Repo stars](https://img.shields.io/github/stars/ManuelGil/vscode-code-error-guard-plus?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-code-error-guard-plus)
+[![GitHub license](https://img.shields.io/github/license/ManuelGil/vscode-code-error-guard-plus?style=for-the-badge&logo=github)](https://github.com/ManuelGil/vscode-code-error-guard-plus/blob/main/LICENSE)
 
 **Manage the complete lifecycle of generated try/catch structures in Visual Studio Code.**
 
@@ -12,7 +12,7 @@ Instead of focusing only on code generation, CodeErrorGuard+ focuses on the enti
 
 Whether you are adding temporary protection during a refactor, introducing error handling in legacy code, reviewing generated structures, or cleaning up an entire file before a commit, the extension provides a deterministic and reversible workflow.
 
-![Generated try/catch structures detected and organized in the Explorer view](https://raw.githubusercontent.com/ManuelGil/vscode-code-error-guard-plus/main/images/images/generated-structures-explorer.png)
+![Generated try/catch structures detected and organized in the Explorer view](https://raw.githubusercontent.com/ManuelGil/vscode-code-error-guard-plus/main/images/generated-structures-explorer.png)
 
 *Discover generated structures, navigate directly to them, and clean them up safely when they are no longer needed.*
 

@@ -7,9 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-06-12
+
+### Fixed
+
+- Update README badges to point to the new repository and extension name
+
 ## [1.0.0] - 2026-06-12
 
 - Initial release of CodeErrorGuard+ extension
 
-[Unreleased]: https://github.com/ManuelGil/vscode-code-error-guard-plus/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/ManuelGil/vscode-code-error-guard-plus/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/ManuelGil/vscode-code-error-guard-plus/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/ManuelGil/vscode-code-error-guard-plus/releases/tag/v1.0.0

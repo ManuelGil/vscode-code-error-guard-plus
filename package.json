@@ -2,7 +2,7 @@
 	"name": "vscode-code-error-guard-plus",
 	"displayName": "CodeErrorGuard+",
 	"description": "Insert, review, and remove generated try/catch structures across multiple languages while preserving ownership of your code.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"icon": "icon.png",
 	"license": "MIT",
 	"publisher": "imgildev",
