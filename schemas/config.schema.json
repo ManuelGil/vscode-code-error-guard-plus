@@ -1,0 +1,24 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"codeErrorGuardPlus.enable": {
+			"type": "boolean",
+			"default": true,
+			"scope": "resource",
+			"description": "Enable or disable the extension."
+		},
+		"codeErrorGuardPlus.version": {
+			"type": "string",
+			"default": "1.0.0",
+			"scope": "resource",
+			"description": "The extension's version."
+		},
+		"codeErrorGuardPlus.license": {
+			"type": "string",
+			"default": "MIT",
+			"scope": "resource",
+			"description": "The extension's license."
+		}
+	}
+}

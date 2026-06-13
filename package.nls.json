@@ -1,0 +1,19 @@
+{
+	"codeErrorGuardPlus.enable.description": "Enable or disable deterministic try/catch commands.",
+	"codeErrorGuardPlus.defaultLanguage.description": "Language used when the active document type cannot be inferred.",
+	"codeErrorGuardPlus.customTemplates.description": "Override built-in try/catch templates with workspace-specific structures.",
+	"codeErrorGuardPlus.customTemplates.language.description": "Programming language that receives this custom try/catch template (e.g., 'javascript', 'python', 'dart').",
+	"codeErrorGuardPlus.command.insertTryCatch.title": "Insert Try/Catch",
+	"codeErrorGuardPlus.command.removeGeneratedTryCatch.title": "Remove Generated Try/Catch",
+	"codeErrorGuardPlus.command.changeWorkspace.title": "Change CodeErrorGuard+ Workspace",
+	"codeErrorGuardPlus.command.removeGeneratedTryCatchFile.title": "Remove Generated Try/Catch Blocks (Current File)",
+	"codeErrorGuardPlus.menu.editor.label": "CodeErrorGuard+",
+	"codeErrorGuardPlus.listTryCatchView.title": "Generated Try/Catch Declarations",
+	"codeErrorGuardPlus.listTryCatchView.refreshList.title": "Refresh Generated Try/Catch List",
+	"codeErrorGuardPlus.listTryCatchView.welcomeMessage": "To effectively capture files, ensure you include the file type within the workspace settings.\n[Open Workspace Setting](command:workbench.action.openWorkspaceSettingsFile)\nTo learn more about how to use the Starter Kit [read our docs](https://github.com/ManuelGil/vscode-code-error-guard-plus).",
+	"codeErrorGuardPlus.listTryCatchView.openContainingFolder.title": "Open Containing Folder",
+	"codeErrorGuardPlus.listTryCatchView.revealFile.title": "Reveal File",
+	"codeErrorGuardPlus.listTryCatchView.copyPath.title": "Copy Path",
+	"codeErrorGuardPlus.listTryCatchView.gotoLineFromNode.title": "Go to Line",
+	"codeErrorGuardPlus.listTryCatchView.copyLogText.title": "Copy Generated Try/Catch Text"
+}

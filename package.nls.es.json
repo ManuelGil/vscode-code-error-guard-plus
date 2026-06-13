@@ -1,0 +1,19 @@
+{
+	"codeErrorGuardPlus.enable.description": "Habilita o deshabilita los comandos deterministas de try/catch.",
+	"codeErrorGuardPlus.defaultLanguage.description": "Idioma usado cuando no se puede inferir el tipo de documento activo.",
+	"codeErrorGuardPlus.customTemplates.description": "Reemplaza las plantillas predeterminadas de try/catch con estructuras específicas del espacio de trabajo.",
+	"codeErrorGuardPlus.customTemplates.language.description": "Lenguaje de programación al que se aplica esta plantilla personalizada (por ejemplo, 'javascript', 'python', 'dart').",
+	"codeErrorGuardPlus.command.insertTryCatch.title": "Insertar try/catch",
+	"codeErrorGuardPlus.command.removeGeneratedTryCatch.title": "Quitar try/catch generado",
+	"codeErrorGuardPlus.command.changeWorkspace.title": "Cambiar el workspace de CodeErrorGuard+",
+	"codeErrorGuardPlus.command.removeGeneratedTryCatchFile.title": "Quitar try/catch generados (archivo actual)",
+	"codeErrorGuardPlus.menu.editor.label": "CodeErrorGuard+",
+	"codeErrorGuardPlus.listTryCatchView.title": "Declaraciones try/catch generadas",
+	"codeErrorGuardPlus.listTryCatchView.refreshList.title": "Actualizar lista de try/catch generados",
+	"codeErrorGuardPlus.listTryCatchView.welcomeMessage": "Para capturar archivos de manera efectiva, asegúrese de incluir el tipo de archivo dentro de la configuración del espacio de trabajo.\n[Abrir configuración del espacio de trabajo](command:workbench.action.openWorkspaceSettingsFile)\nPara aprender más sobre cómo usar el Starter Kit [lea nuestra documentación](https://github.com/ManuelGil/vscode-code-error-guard-plus).",
+	"codeErrorGuardPlus.listTryCatchView.openContainingFolder.title": "Abrir carpeta contenedora",
+	"codeErrorGuardPlus.listTryCatchView.revealFile.title": "Mostrar archivo",
+	"codeErrorGuardPlus.listTryCatchView.copyPath.title": "Copiar ruta",
+	"codeErrorGuardPlus.listTryCatchView.gotoLineFromNode.title": "Ir a la línea",
+	"codeErrorGuardPlus.listTryCatchView.copyLogText.title": "Copiar texto del try/catch generado"
+}
