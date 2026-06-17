@@ -401,7 +401,7 @@
 		"ignore": "^5.3.2",
 		"mustache": "^4.2.0",
 		"p-limit": "^4.0.0",
-		"vscode-marketplace-client": "^1.2.3"
+		"vscode-marketplace-client": "^1.2.4"
 	},
 	"pnpm": {
 		"onlyBuiltDependencies": [
